@@ -1,1 +1,3 @@
-#Ecoleta
+## 💻 Sobre o projeto 
+
+♻️ Ecoleta
